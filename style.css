@@ -1,0 +1,220 @@
+
+.absolut{
+background-color: rgb(29, 29, 29);
+width: 1200px;
+}
+.obsh{
+
+}
+.nach{
+    /* display: flex;
+justify-content: center; */
+text-align: center;
+background-color: black;
+}
+h1{
+font-size: 30px;
+color: yellow;
+font-family: "Protest Strike";
+text-align: center;
+}
+.nach_text p{
+    width: 400px;
+    color: yellow;
+font-family: "Protest Strike";
+text-align: center;
+margin: 0 auto;
+padding-bottom: 50px;
+}
+.kartinka{
+margin-left: 200px;
+
+}
+.dip{
+    background-image: url();
+}
+.rock h6{
+    color:yellow;
+    font-size:40px;
+
+    padding-left:150px;
+}
+.rasskaz {
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-image: url(img/v-kosmose-net-vremen-goda-net-zimy-i-leta-photoaidcom-blur.jpg);
+    padding-bottom:20px;
+    margin-bottom:50px;
+}
+.rasskaz img {
+    border-radius: 10%;
+    border: solid;
+}
+.rasskaz p{
+    color :white;
+    width: 500px;
+    font-size: 20px;
+}
+.bomb {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 100px;
+    padding-left: 30px;
+    padding-bottom:50px;
+}
+.bomb p {
+    color: #999;
+    padding-left: 20px;
+}
+.bomb img {
+    border-radius: 10%;
+    border: solid;
+}
+.bomb h5 {
+    color: yellow;
+    font-size: 30px;
+    padding-left: 20px;
+}
+.clas{
+    color: white;
+ margin-left: 100px;
+ margin-right: 100px;
+ text-align:center;
+}
+.kart{
+    margin-left: 200px;
+}
+.krat {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 100px;
+    margin-left: 100px;
+
+    margin-top: 100px;
+    padding-left: 30px;
+}
+.krat p{
+    color: #999;
+}
+.krat h4{
+    color: yellow;
+    font-size:30px;
+
+}
+.krat img {
+    border-radius: 10%;
+    border:solid;
+}
+.posl {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 100px;
+    padding-left: 30px;
+}
+.posl p {
+    color: #999;
+}
+.posl img {
+    border-radius: 10%;
+     border: solid;
+}
+.posl h7{
+    color: yellow;
+    font-size: 30px;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+.card {
+    background-color: dimgray;
+    color: yellow;
+    border-radius: 10%;
+    padding-right: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    text-align: center;
+}
+.card img{
+    border-radius: 10%;
+    
+}
+.card p{
+    padding-left:20px;
+    width: 250px;
+}
+container2{
+    width: 100%;
+    background-color: black;
+    height: 400px;
+    padding-top:100px;
+}
+.block{
+    background-color: black;
+    width: 100%;
+    height: 300px;
+
+}
+.container3{
+    padding-top: 50px;
+}
+.block2 {
+    background-color: dimgray;
+    width:800px;
+    height: 0.1px;
+    padding-left: 200px;
+    margin:0 auto;
+}
+.zag h{
+    color: yellow;
+    font-size:40px;
+padding: 100px;
+}
+.cardb {
+    background-color: dimgray;
+    color: yellow;
+    border-radius: 10%;
+    padding-right: 0px;
+    padding-left: 10px;
+    margin: 0 auto;
+    padding-right: 10px;
+    padding-top: 10px;
+    text-align: center;
+    width:800px;
+    padding-bottom:40px;
+}
+.cardb img {
+    border-radius: 10%;
+}
+.cardb p {
+padding-left: 20px;
+ width: 800px;
+}
+.ssilka {
+    padding-top:30px;
+    background-color: yellow;
+    width: 200px;
+    height: 60px;
+    
+}
+.ssilka a{
+     text-decoration:none;
+     color:black;
+     padding:35px;
+     font-size:30px;
+
+}
+.skach{
+padding-left:475px;
+padding-top:100px;
+}

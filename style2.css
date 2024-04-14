@@ -1,0 +1,13 @@
+.main{
+    background-color: aqua;
+}
+
+.slider{
+    background-color: burlywood;
+    min-height: 500px;
+}
+
+.block{
+    background-color: brown;
+    min-height: 200px;
+}
